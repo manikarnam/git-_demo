@@ -7,5 +7,3 @@ elif number==100:
     print("number is equal to 100");  
 else:  
     print("number is not equal to 10, 50 or 100");  
-
-//program executed but lenthycode will you reduce taht code
