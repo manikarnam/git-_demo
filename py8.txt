@@ -1,0 +1,24 @@
+class D{
+
+int id;
+string name;
+string mail;
+
+
+void display(){
+
+System.out.println(id+" "+name +""+mail)
+}
+
+
+main(){
+
+D d=new D(100,"mani",mani.engg@gmail.com);
+
+d.id();
+d.name();
+d.mail();
+
+}
+
+}
