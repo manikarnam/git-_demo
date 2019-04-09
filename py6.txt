@@ -4,4 +4,3 @@ for i in range(0,n):
     print()  
     for j in range(0,i+1):  
         print("*")
-//code executed rightpath do you have any changes in the sourcecode
